@@ -10,9 +10,9 @@
 
 We build effective digital experiences, improve search visibility, and create marketing campaigns designed to generate measurable business growth.
 
-[Website](https://YOUR-WEBSITE.com) ·
-[Portfolio](https://YOUR-PORTFOLIO.com) ·
-[Contact](mailto:YOUR-EMAIL@example.com)
+[Website](https://samtinoo.ir) ·
+[Portfolio](https://samtinoo.ir/#jobs) ·
+[Contact](https://samtinoo.ir/#contact)
 
 </div>
 
