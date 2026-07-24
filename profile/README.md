@@ -56,26 +56,29 @@ We monitor results and identify opportunities for continuous improvement.
 
 ### Website Design
 
-- **[Project name]** — [One-sentence description]
-- **[Project name]** — [One-sentence description]
+- **Alijenab.com** — Online Shop Ecommerce
+- **Nekoumoku.com** — Study Hub and Ecommerce
+- **Javadnasr.ir** — Study Hub and Ecommerce
+- **Alfapmi.com** — Study Hub and Ecommerce
+- **Wibaart.com** — Study Hub - Online Shop and Ecommerce
+- **Drdolatkhah.com** — Study Hub and Ecommerce
+- **fatememohamadi.com** — Organization
 
 ### SEO
 
-- **[Project or case study]** — [Result or scope]
-- **[Project or case study]** — [Result or scope]
+
 
 ### Digital Marketing
 
-- **[Campaign name]** — [One-sentence description]
-- **[Campaign name]** — [One-sentence description]
+
 
 ## Work with Samtinoo
 
 Have a website, SEO, or digital marketing project?
 
-- Website: [YOUR-WEBSITE.com](https://YOUR-WEBSITE.com)
-- Email: [YOUR-EMAIL@example.com](mailto:YOUR-EMAIL@example.com)
-- Location: [CITY, COUNTRY]
+- Website: [Samtinoo.ir](https://samtinoo.ir)
+- Email: [info@samtinoo.ir](mailto:info@samtinoo.ir)
+- Location: [Tehran, IRAN]
 
 ---
 
